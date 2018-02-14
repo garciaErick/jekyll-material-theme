@@ -144,7 +144,7 @@ project_button: Github
 github: https://github.com/jameshamann/jekyll-material-theme
 medium: https://medium.com
 
-baseurl: /jekyll-material-theme # if your site is located at /blog or /home, enter it here, otherwise leave it empty
+baseurl: /my-material-website # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://erick-garcia/ #the url of your site
 
 google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
